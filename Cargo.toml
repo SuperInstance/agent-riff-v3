@@ -1,4 +1,5 @@
 [package]
+repository = "https://github.com/SuperInstance/agent-riff-v3"
 name = "agent-riff-v3"
 version = "0.3.0"
 edition = "2021"

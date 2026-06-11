@@ -2,6 +2,7 @@
 repository = "https://github.com/SuperInstance/agent-riff-v3"
 name = "agent-riff-v3"
 version = "0.3.0"
+license = "MIT OR Apache-2.0"
 edition = "2021"
 description = "Snowball generation 3: multi-spec riff sessions, auto-spec generation, quality prediction, bootstrap verification, snowball metrics"
 
